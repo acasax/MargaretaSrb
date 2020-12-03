@@ -8049,7 +8049,8 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light {
       position: relative;
       top: 0;
-      padding: 10px 15px; } }
+      padding: 10px 15px;
+      background: black !important;} }
   .ftco-navbar-light.ftco-navbar-light-2 {
     position: relative;
     top: 0; }
@@ -8136,7 +8137,7 @@ h1, h2, h3, h4, h5,
         color: #fff; } }
   .ftco-navbar-light .navbar-toggler {
     border: none;
-    color: rgba(0, 0, 0, 1) !important;
+    color: rgba(255, 255, 255, 1) !important;
     cursor: pointer;
     padding-right: 0;
     text-transform: uppercase;
