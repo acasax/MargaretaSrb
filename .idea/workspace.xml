@@ -2,9 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286c95b0-a7f2-4943-9727-7be2b0042587" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/Ajvarblagi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Ajvarljuti.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Aronija.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Cvekla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Dzemjagoda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Dzemjagoda2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Dzemkajsija.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Dzemkajsija2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Dzemkupina.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Dzemsipurak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Dzemsipurak2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Kornisoni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Menta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Pekmezsljiva.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Pekmezsljivasacokoladom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Siruparonija.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Sirupborovnica.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Sirupcrnaribizla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Sirupvisnja.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Zova.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pekmezodsljiva.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/ajvarblagi.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/aronijamaticnisok.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/cveklabarena.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/dzemkajsija.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/dzemodjagode.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/dzemodjagode2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/dzemodkajsija.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/dzemodkupina.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/dzemodsipurka.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/dzemsipurak.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/kornisonidelikates.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/pekmezodsljiva.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/pekmezodsljiva2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/pekmezsljivasacokoladom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/sirupodaronije.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/sirupodborovnice.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/sirupodcrneribizle.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/sirupodmente.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/sirupodvisnje.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/400px height/sirupodzove.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ajvarblagi.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/aronijamaticnisok.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cveklabarena.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dzemkajsija.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dzemodjagode.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dzemodjagode2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dzemodkajsija.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dzemodkupina.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dzemodsipurka.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dzemsipurak.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kornisonidelikates.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pekmezodsljiva.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pekmezodsljiva2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pekmezsljivasacokoladom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sirupodaronije.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sirupodborovnice.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sirupodcrneribizle.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sirupodmente.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sirupodvisnje.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sirupodzove.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +82,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l6WaHrrb0ddgd45irYhIy68NN0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -51,7 +114,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606918082512</updated>
       <workItem from="1606918083911" duration="9208000" />
-      <workItem from="1606944641851" duration="2967000" />
+      <workItem from="1606944641851" duration="3594000" />
+      <workItem from="1606998379540" duration="2462000" />
     </task>
     <servers />
   </component>
@@ -70,5 +134,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
