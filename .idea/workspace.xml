@@ -2,153 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286c95b0-a7f2-4943-9727-7be2b0042587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/en/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/aos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/bootstrap-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/bootstrap/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/css/mixins/_text-hide.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/icomoon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/jquery.timepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/open-iconic-bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Ajvarblagi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Ajvarljuti.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Aronija.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Cvekla.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Dzemjagoda.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Dzemjagoda2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Dzemkajsija.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Dzemkajsija2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Dzemkupina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Dzemsipurak.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Dzemsipurak2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Kornisoni.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Menta.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Pekmezsljiva.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Pekmezsljivasacokoladom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Siruparonija.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Sirupborovnica.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Sirupcrnaribizla.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Sirupvisnja.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/Zova.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/bg_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/bg_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/bg_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/pekmezodsljiva.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Ajvarblagi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Ajvarljuti.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Aronija.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Cvekla.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Dzemjagoda.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Dzemjagoda2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Dzemkajsija.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Dzemkajsija2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Dzemkupina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Dzemsipurak.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Dzemsipurak2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Kornisoni.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Menta.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Pekmezsljiva.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Pekmezsljivasacokoladom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Siruparonija.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Sirupborovnica.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Sirupcrnaribizla.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Sirupvisnja.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/Zova.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/velike/slike 1/pekmezsljiva2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/zastave/serbia-flag-icon-32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/images/zastave/united-kingdom-flag-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/aos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/bootstrap-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/google-map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/jquery.animateNumber.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/jquery.easing.1.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/jquery.stellar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/range.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/js/scrollax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/ajvarBlagi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/ajvarLjuti.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/cveklaBarena.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/dzemOdJagode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/dzemOdJagodeM.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/dzemOdKajsije.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/dzemOdKajsijeV.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/dzemOdKupine.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/kornisoniDelikates.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/maticniSokOdAronije.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/pekmezOdSipurka.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/pekmezOdSljive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/pekmezOdSljiveSaCokoladom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/pekmezOdSljiveV.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/sirupOdAronije.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/sirupOdBorovnice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/sirupOdCrneRibizle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/sirupOdMente.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/sirupOdVisnje.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/products/sirupOdZove.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/zastave/serbia-flag-icon-32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/zastave/united-kingdom-flag-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/products/pekmezOdSipurkaV.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/pekmezOdSipurkaV.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Dzemjagoda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Dzemjagoda.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Dzemkajsija2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Dzemkajsija2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Dzemsipurak.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Dzemsipurak.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pekmezodsljiva.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pekmezodsljiva.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/pekmezOdSipurka.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/pekmezOdSipurka.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/ajvarBlagi.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/ajvarBlagi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/ajvarLjuti.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/ajvarLjuti.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/cveklaBarena.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/cveklaBarena.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/dzemOdJagode.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/dzemOdJagode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/dzemOdJagodeM.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/dzemOdJagodeM.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/dzemOdKajsije.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/dzemOdKajsije.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/dzemOdKajsijeV.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/dzemOdKajsijeV.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/dzemOdKupine.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/dzemOdKupine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/kornisoniDelikates.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/kornisoniDelikates.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/maticniSokOdAronije.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/maticniSokOdAronije.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products/pekmezOdSipurka.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/pekmezOdSipurka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/pekmezOdSljive.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/pekmezOdSljive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/pekmezOdSljiveSaCokoladom.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/pekmezOdSljiveSaCokoladom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/pekmezOdSljiveV.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/pekmezOdSljiveV.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/sirupOdAronije.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdAronije.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/sirupOdBorovnice.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdBorovnice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/sirupOdCrneRibizle.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdCrneRibizle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/sirupOdMente.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdMente.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/sirupOdVisnje.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdVisnje.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/sirupOdZove.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdZove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wishlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/wishlist.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,15 +40,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/en" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/en/products" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\vegefoods-master" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\vegefoods-master\en\products" />
       <recent name="C:\xampp\htdocs\vegefoods-master\en" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\vegefoods-master" />
       <recent name="C:\xampp\htdocs\vegefoods-master\en" />
     </key>
   </component>
@@ -228,7 +89,9 @@
       <workItem from="1608059392180" duration="8320000" />
       <workItem from="1608110214659" duration="7845000" />
       <workItem from="1608158620109" duration="289000" />
-      <workItem from="1608197466682" duration="8267000" />
+      <workItem from="1608197466682" duration="8338000" />
+      <workItem from="1608222572612" duration="17000" />
+      <workItem from="1608240565930" duration="1205000" />
     </task>
     <servers />
   </component>
