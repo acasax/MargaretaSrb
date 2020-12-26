@@ -2,13 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286c95b0-a7f2-4943-9727-7be2b0042587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/en/products/pekmezOdSipurkaV.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products/pekmezOdSipurkaV.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/galery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/galerija1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/galerija2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/galerija3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/galerija4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/onama.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/ajvarBlagi.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/ajvarBlagi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/ajvarLjuti.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/ajvarLjuti.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/cveklaBarena.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/cveklaBarena.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/dzemOdJagode.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/dzemOdJagode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/dzemOdJagodeM.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/dzemOdJagodeM.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/dzemOdKajsije.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/dzemOdKajsije.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/dzemOdKajsijeV.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/dzemOdKajsijeV.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/dzemOdKupine.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/dzemOdKupine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/kornisoniDelikates.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/kornisoniDelikates.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/maticniSokOdAronije.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/maticniSokOdAronije.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/products/pekmezOdSipurka.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/pekmezOdSipurka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/pekmezOdSipurkaV.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/pekmezOdSipurkaV.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/pekmezOdSljive.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/pekmezOdSljive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/pekmezOdSljiveSaCokoladom.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/pekmezOdSljiveSaCokoladom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/pekmezOdSljiveV.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/pekmezOdSljiveV.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/sirupOdAronije.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/sirupOdAronije.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/sirupOdBorovnice.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/sirupOdBorovnice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/sirupOdCrneRibizle.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/sirupOdCrneRibizle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/sirupOdMente.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/sirupOdMente.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/sirupOdVisnje.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/sirupOdVisnje.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/products/sirupOdZove.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/sirupOdZove.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/ajvarBlagi.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/ajvarBlagi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/ajvarLjuti.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/ajvarLjuti.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/cveklaBarena.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/cveklaBarena.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/dzemOdJagode.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/dzemOdJagode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/dzemOdJagodeM.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/dzemOdJagodeM.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/dzemOdKajsije.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/dzemOdKajsije.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/dzemOdKajsijeV.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/dzemOdKajsijeV.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/dzemOdKupine.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/dzemOdKupine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/kornisoniDelikates.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/kornisoniDelikates.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/maticniSokOdAronije.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/maticniSokOdAronije.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products/pekmezOdSipurka.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/pekmezOdSipurka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/pekmezOdSipurkaV.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/pekmezOdSipurkaV.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/pekmezOdSljive.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/pekmezOdSljive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/pekmezOdSljiveSaCokoladom.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/pekmezOdSljiveSaCokoladom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/pekmezOdSljiveV.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/pekmezOdSljiveV.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/sirupOdAronije.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdAronije.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/sirupOdBorovnice.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdBorovnice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/sirupOdCrneRibizle.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdCrneRibizle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/sirupOdMente.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdMente.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/sirupOdVisnje.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdVisnje.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/sirupOdZove.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/sirupOdZove.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +75,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,17 +91,17 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/en/products" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/en" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\vegefoods-master\en\products" />
-      <recent name="C:\xampp\htdocs\vegefoods-master\en" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\vegefoods-master" />
       <recent name="C:\xampp\htdocs\vegefoods-master\en" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\vegefoods-master\en" />
+      <recent name="C:\xampp\htdocs\vegefoods-master\en\products" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -91,7 +142,8 @@
       <workItem from="1608158620109" duration="289000" />
       <workItem from="1608197466682" duration="8338000" />
       <workItem from="1608222572612" duration="17000" />
-      <workItem from="1608240565930" duration="1205000" />
+      <workItem from="1608240565930" duration="1824000" />
+      <workItem from="1608991984151" duration="6621000" />
     </task>
     <servers />
   </component>
