@@ -4,13 +4,6 @@
     <list default="true" id="286c95b0-a7f2-4943-9727-7be2b0042587" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/products/maticniSokOdAronije.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/maticniSokOdAronije.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/products/pekmezOdSljiveSaCokoladom.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/pekmezOdSljiveSaCokoladom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/products/sirupOdAronije.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/sirupOdAronije.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/products/sirupOdVisnje.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/sirupOdVisnje.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/products/sirupOdZove.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/products/sirupOdZove.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/ajvarLjuti.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/ajvarLjuti.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +90,8 @@
       <workItem from="1608991984151" duration="7353000" />
       <workItem from="1609074232534" duration="12000" />
       <workItem from="1609603681207" duration="1842000" />
-      <workItem from="1609680362869" duration="2407000" />
+      <workItem from="1609680362869" duration="2454000" />
+      <workItem from="1609711336540" duration="125000" />
     </task>
     <servers />
   </component>
